@@ -1,0 +1,32 @@
+{
+  "Author": "TuNombre",
+  "Name": "Auto FC Invite",
+  "Punchline": "Invita automáticamente a jugadores sin FC cercanos",
+  "Description": "Plugin que detecta jugadores sin Free Company en el área y les envía invitaciones automáticamente. Configurable con distancia máxima y delays entre invitaciones.",
+  "Tags": [
+    "fc",
+    "free company",
+    "invite",
+    "automation",
+    "social"
+  ],
+  "CategoryTags": [
+    "social",
+    "utility"
+  ],
+  "IsHide": false,
+  "InternalName": "AutoFCInvite",
+  "AssemblyVersion": "1.0.0.0",
+  "TestingAssemblyVersion": "1.0.0.0",
+  "IsTestingExclusive": false,
+  "RepoUrl": "https://github.com/tunombre/AutoFCInvite",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "LoadPriority": 0,
+  "LoadRequiredState": 2,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "AcceptsFeedback": true
+}
