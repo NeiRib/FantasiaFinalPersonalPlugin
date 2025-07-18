@@ -2,8 +2,9 @@
   {
     "Author": "NeiR",
     "Name": "AutoFCInvite",
-    "Punchline": "Automatically invite players to your Free Company",
-    "Description": "A plugin that automatically invites players to your Free Company based on configurable criteria.",
+	"InternalName": "NeiR FC",
+    "Punchline": "test",
+    "Description": "test",
     "InternalName": "AutoFCInvite",
     "AssemblyVersion": "1.0.0.0",
     "RepoUrl": "https://github.com/NeiRib/FantasiaFinalPersonalPlugin",
@@ -23,8 +24,8 @@
     "DownloadLinkInstall": "https://github.com/NeiRib/FantasiaFinalPersonalPlugin/releases/download/v1.0.0/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/yourusername/your-plugin-repo/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/yourusername/your-plugin-repo/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/NeiRib/FantasiaFinalPersonalPlugin/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NeiRib/FantasiaFinalPersonalPlugin/releases/download/v1.0.0/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "2025-07-18T00:00:00Z"
   }
